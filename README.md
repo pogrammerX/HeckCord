@@ -7,3 +7,6 @@ The features that HeckCord brings you:
 • Advanced Settings! (COMMING SOON!)
 • Get Profile Picture URL from User!
 • See when a account got created!
+
+# Developers
+David Gerson [David Gerson(https://youtube.com)]
