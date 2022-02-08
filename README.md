@@ -9,4 +9,7 @@ The features that HeckCord brings you:
 • See when a account got created!
 
 # Developers
-David Gerson [David Gerson(https://youtube.com)]
+David Gerson
+
+# LEGAL DISCLAIMER
+I do not take any responsibility for harm made with this software!
